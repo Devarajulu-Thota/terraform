@@ -1,4 +1,4 @@
-### TERRAFORM
+### TERRAFROM
 
 Below is the environment setup.
 
